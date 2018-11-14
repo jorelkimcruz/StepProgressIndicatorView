@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StepProgressIndicatorView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of StepProgressIndicatorView.'
+  s.version          = '0.0.1'
+  s.summary          = 'Easy step progress indicator view'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,19 +18,18 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    'Easy step progress indicator view with icons'
                        DESC
-
-  s.homepage         = 'https://github.com/jorelkim.cruz@gmail.com/StepProgressIndicatorView'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.swift_version = '4.2'
+  s.homepage         = 'https://github.com/jorelkimcruz/StepProgressIndicatorView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'jorelkim.cruz@gmail.com' => 'jorelkim@salarium.com' }
-  s.source           = { :git => 'https://github.com/jorelkim.cruz@gmail.com/StepProgressIndicatorView.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'jorelkim.cruz@gmail.com' => 'jorelkim.cruz@gmail.com' }
+  s.source           = { :git => 'https://github.com/jorelkimcruz/StepProgressIndicatorView.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/iJorelCruz'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'StepProgressIndicatorView/Classes/**/*'
+  s.source_files = 'Source/*'
   
   # s.resource_bundles = {
   #   'StepProgressIndicatorView' => ['StepProgressIndicatorView/Assets/*.png']
