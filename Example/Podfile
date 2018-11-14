@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'StepProgressIndicatorView_Example' do
+  pod 'StepProgressIndicatorView', :path => '../'
+
+  target 'StepProgressIndicatorView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
