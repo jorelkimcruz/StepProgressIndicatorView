@@ -1,5 +1,5 @@
 PODS:
-  - StepProgressIndicatorView (0.1.0)
+  - StepProgressIndicatorView (0.0.1)
 
 DEPENDENCIES:
   - StepProgressIndicatorView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  StepProgressIndicatorView: af31f9ee0ed0631f9c2214c229b533628c92d465
+  StepProgressIndicatorView: a29c8ec314b6183385e272d175df31ca1bf9df7e
 
 PODFILE CHECKSUM: 1bedaf50b068d66f284e0392e87498dca92fa8d6
 

@@ -1,22 +1,24 @@
 {
   "name": "StepProgressIndicatorView",
-  "version": "0.1.0",
-  "summary": "A short description of StepProgressIndicatorView.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jorelkim.cruz@gmail.com/StepProgressIndicatorView",
+  "version": "0.0.1",
+  "summary": "Easy step progress indicator view",
+  "description": "'Easy step progress indicator view with icons'",
+  "swift_version": "4.2",
+  "homepage": "https://github.com/jorelkimcruz/StepProgressIndicatorView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "jorelkim.cruz@gmail.com": "jorelkim@salarium.com"
+    "jorelkim.cruz@gmail.com": "jorelkim.cruz@gmail.com"
   },
   "source": {
-    "git": "https://github.com/jorelkim.cruz@gmail.com/StepProgressIndicatorView.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/jorelkimcruz/StepProgressIndicatorView.git",
+    "tag": "0.0.1"
   },
+  "social_media_url": "https://twitter.com/iJorelCruz",
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "StepProgressIndicatorView/Classes/**/*"
+  "source_files": "StepProgressIndicatorView/*"
 }

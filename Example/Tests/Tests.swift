@@ -1,5 +1,4 @@
 import XCTest
-import StepProgressIndicatorView
 
 class Tests: XCTestCase {
     

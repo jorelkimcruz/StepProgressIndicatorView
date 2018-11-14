@@ -7,11 +7,9 @@
 //
 
 import UIKit
-import StepProgressIndicatorView
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var stepProgressView: StepProgressIndicatorView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
