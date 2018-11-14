@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.swift_version = '4.2'
   s.homepage         = 'https://github.com/jorelkimcruz/StepProgressIndicatorView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'jorelkim.cruz@gmail.com' => 'jorelkim.cruz@gmail.com' }
+  s.author           = { 'Jorel Cruz' => 'jorelkim.cruz@gmail.com' }
   s.source           = { :git => 'https://github.com/jorelkimcruz/StepProgressIndicatorView.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/iJorelCruz'
 
