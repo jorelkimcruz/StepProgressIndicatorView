@@ -22,7 +22,7 @@ pod 'StepProgressIndicatorView'
 
 ## Author
 
-jorelkim.cruz@gmail.com, jorelkim@salarium.com
+jorelkim.cruz@gmail.com
 
 ## License
 
