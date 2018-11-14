@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Source/*'
+  s.source_files = 'StepProgressIndicatorView/**/*'
   
   # s.resource_bundles = {
   #   'StepProgressIndicatorView' => ['StepProgressIndicatorView/Assets/*.png']
